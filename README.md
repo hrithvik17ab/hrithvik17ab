@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hrithvik17ab aka Hrithvik Ranka
-- 👀 I’m interested in Data Science and Machine Learning 
+- 👀 I’m pursuing in Data Science and Machine Learning 
 - 🌱 I’m currently learning many things that I find interesting
 - 📫 How to reach me hrithvikranka@gmail.com
 
